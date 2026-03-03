@@ -25,7 +25,7 @@ Atualmente estou estudando para criar aplicações de IA generativa usando Langc
   <a href="https://www.linkedin.com/in/allan-calixto-bbb977274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/AllanGCalixto/AllanGCalixto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AllanGCalixto/AllanGCalixto/blob/main/.github/workflows/main.yml)
 
 
 
